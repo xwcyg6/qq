@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/七新影视.json"
+      "ext": "./json/七新影视.json"
     },
     {
       "key": "csp_XYQHiker_可可影视",
