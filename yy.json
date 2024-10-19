@@ -45,12 +45,12 @@
       "jar": "./jar/spider.jar",
       "ext": "http://op.ysdqjs.cn"
     },
-    {
+  {
       "key": "追剧影视",
-      "name": "追剧┃影视",
+      "name": "💮追剧┃直连",
       "type": 3,
       "api": "csp_AppZJ",
-      "jar": "./jar/o2.jar",
+      "jar": "./jar/zhuiju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
