@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/影搜.json"
+      "ext": "./json/影搜.json"
     },
     {
       "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -128,7 +128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/玩偶哥哥.json"
+      "ext": "./json/玩偶哥哥.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -138,7 +138,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/云盘资源.json"
+      "ext": "./json/云盘资源.json"
     },
     {
       "key": "push_agent",
@@ -265,7 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/哔嘀影视.json"
+      "ext": "./json/哔嘀影视.json"
     },
     {
       "key": "csp_Ddys",
