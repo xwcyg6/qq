@@ -315,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/兔小贝.json"
+      "ext": "./json/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -325,7 +325,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/兔小贝2.json"
+      "ext": "./json/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -335,7 +335,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./XYQHiker/播视童趣.json"
+      "ext": "./json/播视童趣.json"
     },
     {
       "key": "csp_Bili幼儿",
@@ -415,7 +415,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/爱你短剧.json"
+      "ext": "./json/爱你短剧.json"
     },
     {
       "key": "csp_XYQHiker_河马短剧",
@@ -425,7 +425,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/河马短剧.json"
+      "ext": "./json/河马短剧.json"
     },
     {
       "key": "csp_XYQHiker_短剧屋",
@@ -435,7 +435,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/短剧屋.json"
+      "ext": "./json/短剧屋.json"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -445,7 +445,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/农民影视.json"
+      "ext": "./json/农民影视.json"
     },
     {
       "key": "csp_XYQHiker_七新影视",
@@ -465,7 +465,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XYQHiker/可可影视.json"
+      "ext": "./json/可可影视.json"
     },
     {
       "key": "csp_Yj1211",
