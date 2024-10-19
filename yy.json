@@ -124,18 +124,7 @@
       "changeable": 1,
       "ext": "./dr_py/js/cangzan.js"
     },
-      {
-      "key": "在线4K",
-      "name": "线线┃4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "./jar/美妞.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/4kav.json"
-    },
-        {
+    {
       "key": "即看影视",
       "name": "🟡即看┃超清┃多线",
       "type": 3,
