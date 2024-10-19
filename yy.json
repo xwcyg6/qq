@@ -26,6 +26,100 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/drpy.js"
     },
+      {
+      "key": "csp_瓜子",
+      "name": "瓜子|影视",
+      "api": "csp_Gz360",
+      "jar": "./jar/gz.jar",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0
+    },
+      {
+      "key": "天天影视",
+      "name": "👻天天┃高清┃纯净",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/spider.jar",
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "追剧影视",
+      "name": "追剧┃影视",
+      "type": 3,
+      "api": "csp_AppZJ",
+      "jar": "./jar/o2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://z.kzjtv.com/"
+    },
+    {
+      "key": "文采",
+      "name": "文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "在线4K",
+      "name": "线线┃4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/美妞.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4kav.json"
+    },
+    {
+      "key": "欢视",
+      "name": "欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "jar": "./jar/美妞.jar",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/"
+    },
+      {
+      "key": "小猫",
+      "name": "小猫┃解析",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
