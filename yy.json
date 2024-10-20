@@ -9,13 +9,13 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "FMM_IPV6",
-      "type": "0",
-      "pass": true,
+  {
+      "name": "IPTV4",
+      "type": 0,
       "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/qq/refs/heads/main/IPTV/%23%E6%B1%9F%E8%A5%BFPLTV%E8%B5%A3%E5%B7%9E%E7%A7%BB%E5%8A%A8ip%E7%89%88.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+",
+      "playerType": 1,
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     }
   ],
   "sites": [
