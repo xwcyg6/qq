@@ -129,8 +129,8 @@
       "name": "🌼可可多线┃推荐",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
       "searchable": 1,
+     "jar": "./jar/XBPQ.jar",
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
