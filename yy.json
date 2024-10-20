@@ -5,7 +5,7 @@
       "name": "本地live文件",
       "type": "0",
       "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/yyds/refs/heads/main/%E7%BE%8E%E5%A6%9E.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
