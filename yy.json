@@ -18,6 +18,7 @@
       "api": "./dr_py/libs/drpy2.min.js",
       "ext": "./dr_py/js/drpy.js"
     },
+    {"key":"开心直播点播","name":"📺︎美妞直播点播","type":3,"api":"./dr_py/js/sdtv.js","ext":"./libs/kxzb1.txt","jar":"./jar/sdtv.jar"},
       {
       "key": "csp_瓜子",
       "name": "瓜子|影视",
