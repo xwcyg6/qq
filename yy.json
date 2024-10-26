@@ -228,6 +228,15 @@
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
     },
+       {
+      "key": "葡萄",
+      "name": "👒官方",
+      "type": 1,
+      "api": "https://tv.sswapp.top/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
