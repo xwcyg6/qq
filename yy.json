@@ -8,45 +8,6 @@
       "ext": "./dr_py/js/drpy.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/百忙无果.js"
-    },
-  {
-      "key" : "追剧影视" ,
-      "name" : "追剧┃直连" ,
-      “类型”：3，
-      “api”：“csp_AppZJ”，
-      "jar" : "./jar/zhuiju.jar" ,
-      “可搜索”：1，
-      “快速搜索”：1，
-      “可过滤”：1，
-      “ext”：“http://z.kzjtv.com/”
-    },
-    {
       "key": "文采",
       "name": "文采┃秒播",
       "type": 3,
