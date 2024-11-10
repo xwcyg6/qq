@@ -1,53 +1,53 @@
-﻿{
-  "spider": "./custom_spider.jar",
-  "lives": [
+﻿{{
+  "蜘蛛": "./custom_spider.jar","spider": "./custom_spider.jar",
+  “生活”：["lives": [
 {
-      "name": "IPTV4",
-      "type": 0,
-      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/qq/refs/heads/main/IPTV/%23%E6%B1%9F%E8%A5%BFPLTV%E8%B5%A3%E5%B7%9E%E7%A7%BB%E5%8A%A8ip%E7%89%88.txt
-",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    }
-  ],
-  "sites": [
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "豆瓣[js]",
-      "type": 3,
-      "api": "./dr_py/libs/drpy2.min.js",
-      "ext": "./dr_py/js/drpy.js"
-    },
-    {"key":"开心直播点播","name":"📺︎美妞直播点播","type":3,"api":"./dr_py/js/sdtv.js","ext":"./libs/kxzb1.txt","jar":"./jar/sdtv.jar"},
-      {
-      "key": "csp_瓜子",
-      "name": "瓜子|影视",
-      "api": "csp_Gz360",
-      "jar": "./jar/gz.jar",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0
-    },
-      {
-      "key": "天天影视",
-      "name": "👻天天┃高清┃纯净",
-      "type": 3,
-      "api": "csp_TTian",
-      "jar": "./jar/spider.jar",
-      "ext": "http://op.ysdqjs.cn"
-    },
+      “名称”：“IPTV4”，"name": "IPTV4",
+      “类型”：0，"type": 0,
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/qq/refs/heads/main/IPTV/%23%E6%B1%9F%E8%A5% BFPLTV%E8%B5%A3%E5%B7%9E%E7%A7%BB%E5%8A%A8ip%E7%89%88.txt"url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xwcyg6/qq/refs/heads/main/IPTV/%23%E6%B1%9F%E8%A5%BFPLTV%E8%B5%A3%E5%B7%9E%E7%A7%BB%E5%8A%A8ip%E7%89%88.txt
+“，
+      “玩家类型”：1，"playerType": 1,
+      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}""epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+    }}
+  ],],
+  “网站”：["sites": [
+    {{
+      "key": "drpy_js_豆瓣" , "key" : "drpy_js_豆瓣" ,
+      "名称" : "豆瓣[js]" , "名称" : "豆瓣[js]" ,
+      “类型”：3，“类型”：3 ,
+      “api”：“./dr_py/libs/drpy 2 .min.js”，"api" : "./dr_py/libs/drpy2.min.js" ,
+      “ext”：“./dr_py/js/drpy.js” “ext”：“./dr_py/js/drpy.js”
+    } , } ,
+    {  "key" : "开心直播点播" , "name" : "︎美妞直播点播" , "type" : 3 , "api" : "./dr_py/js/sdtv.js" , "ext" : " ./libs/kxzb1.txt" , "jar" : "./jar/sdtv.jar"  } , {  "key" : "开心直播点播" , "名称" : "︎美妞直播点播" , "类型" : 3 , "api" : "./dr_py/js/sdtv.js" , "ext" : "./libs/kxzb1 .txt" , "jar" : "./jar/sdtv.jar"  } ,
+      {  {
+      “键”：“csp_瓜子”，“键”：“csp_瓜子”，
+      "名称" : "瓜子|影视" , "名称" : "瓜子|影视" ,
+      “api”：“csp_Gz 360 ”，“api”：“csp_Gz 360 ”，
+      “jar”：“./jar/gz.jar”，“jar”：“./jar/gz.jar”，
+      “类型”：3，“类型”：3 ,
+      “可搜索”：1，“可搜索” : 1 ,
+      “玩家类型”：2，“玩家类型” : 2 ,
+      “超时”：30，“超时”：30，
+      “可变”：0 “可变” : 0
+    } , } ,
+      {  {
+      "key" : "天天影视" , "key" : "天天影视" ,
+      "name" : "天天┃高清┃毁灭" , "name" : "天天┃高清┃毁灭" ,
+      “类型”：3，3，
+      “api”：“csp_TTian”，
+      “jar”：“./jar/spider.jar”，
+      "ext" : "http://op.ysdqjs.cn"
+    } ,
   {
-      "key": "追剧影视",
-      "name": "💮追剧┃直连",
-      "type": 3,
-      "api": "csp_AppZJ",
-      "jar": "./jar/zhuiju.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://z.kzjtv.com/"
+      "key" : "追剧影视" ,
+      "name" : "追剧┃直连" ,
+      “类型”：3，
+      “api”：“csp_AppZJ”，
+      "jar" : "./jar/zhuiju.jar" ,
+      “可搜索”：1，
+      “快速搜索”：1，
+      “可过滤”：1，
+      “ext”：“http://z.kzjtv.com/”
     },
     {
       "key": "文采",
@@ -748,6 +748,35 @@
         ]
       }
     },
+      {
+			"name": "ICU",
+			"type": 1,
+			"url": "https://jxjson.icu/neibu.php?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
         {
       "name": "巧技二",
       "type": 1,
